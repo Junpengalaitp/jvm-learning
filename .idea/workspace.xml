@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0121cd9-aeca-4e54-bf77-773dd7f6e30d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/JvmFlags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/CombinedNumbersTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/FibonnaciNumbersTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/NumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/PrimeNumbersTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/benchmarking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/benchmarking/NumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/improved/CombinedNumbersTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/improved/FibonnaciNumbersTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/improved/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/improved/NumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/fibonnaci/improved/PrimeNumbersTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/softleaks/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/softleaks/CustomerHarness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/softleaks/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/softleaks/GenerateCustomerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/alaitp/softleaks/ProcessCustomerTask.java" afterDir="false" />
-    </list>
+    <list default="true" id="e0121cd9-aeca-4e54-bf77-773dd7f6e30d" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,11 +173,24 @@
       <option name="presentableId" value="Default" />
       <updated>1728054338391</updated>
       <workItem from="1728054339498" duration="15039000" />
-      <workItem from="1728482235847" duration="8646000" />
+      <workItem from="1728482235847" duration="9148000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1728734328905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728734328905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
